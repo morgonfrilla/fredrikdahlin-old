@@ -9,4 +9,4 @@ I decided to design the blog as a timeline were each post represented about a mo
 ## Usage
 You need to create a database structure to utilize this blog. If you're interested in the database schemas I used you can message me.
 
-See my blog for the result [fredrikdahlin.com](www.fredrikdahlin.com)
+See my blog for the result [fredrikdahlin.com](http://www.fredrikdahlin.com)
